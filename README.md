@@ -1,4 +1,4 @@
-# minecraft-processor
+# Building a CPU in Minecraft
 
 ## Block Diagram
 
